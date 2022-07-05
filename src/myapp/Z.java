@@ -1,9 +1,9 @@
 package myapp;
 
 public class Z {
-    String word;
+    String string;
 
-    public Z(String word) {
-        this.word = word;
+    public Z(String string) {
+        this.string = string;
     }
 }
